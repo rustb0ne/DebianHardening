@@ -171,6 +171,7 @@ sudo lynis audit system
 ```
 Lynis score before
 ![alt text](<img2.png>)
+
 Lynis score after
 ![alt text](<img1.png>)
 
